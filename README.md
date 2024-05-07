@@ -26,3 +26,14 @@ Thời gian phản hồi, hiệu xuất:
 Thông tin trả về: 
 - Chính xác
 - Các status trả về đúng
+
+Ảnh kết quả trả về:
+
+- GET
+![get](https://github.com/21010647AnNV/api-crm-with-postman/blob/main/images/get.png)
+
+- POST
+![post](https://github.com/21010647AnNV/api-crm-with-postman/blob/main/images/post.png)
+
+- DELETE
+![delete](https://github.com/21010647AnNV/api-crm-with-postman/blob/main/images/delete.png)
